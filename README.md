@@ -1,2 +1,1 @@
-# Bike_sharing
-project 1 in udacity ML 
+## You will find everything you need in the /Project folder
